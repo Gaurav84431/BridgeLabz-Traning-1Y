@@ -1,6 +1,5 @@
 public class helloworld {
-public static void main(String[] args) {
-
+public status void main (string[] args) {
 	System.out.println("helloworld");
 }
 }
